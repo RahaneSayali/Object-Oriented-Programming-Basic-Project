@@ -152,7 +152,7 @@ void Bank::update(){
 	}
 }
 void Bank::search(){
-cout<<"Enter id of student those data you want to search"<<endl;
+cout<<"Enter ID of student those data you want to search"<<endl;
 cin>>id;
 for(int i=0;i<total;i++)
 {
